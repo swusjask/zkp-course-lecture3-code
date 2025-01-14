@@ -1,0 +1,17 @@
+# Circom compiler outputs
+*.r1cs
+sudoku_js/
+*_js/
+
+# Proof system files
+*.wtns
+*.ptau
+*.pk
+*.vk
+
+# Proof and instance
+*.pf.json
+*.inst.json
+
+# Temporary files
+tmp.*
